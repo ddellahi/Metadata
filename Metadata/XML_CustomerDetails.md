@@ -4,7 +4,6 @@
   <attribute defType="com.stambia.xml.xsd.xsdPath" id="_QGJjgODOEfC7ivsSxMkT5A" value="%{env:workspace_loc}%/Training/Files_In/Xml/customerDetails.xsd"/>
   <attribute defType="com.stambia.xml.xsd.targetNamespace" id="_QGJjgeDOEfC7ivsSxMkT5A" value="http://semarchy.com/samples/management"/>
   <attribute defType="com.stambia.xml.xsd.prefixForAttribute" id="_QGKKkODOEfC7ivsSxMkT5A" value="unqualified"/>
-  <attribute defType="com.stambia.xml.xsd.xmlPath" id="_QGKKkeDOEfC7ivsSxMkT5A" value="%{env:workspace_loc}%/Training/Files_Out/Xml/customerDetails.xml"/>
   <attribute defType="com.stambia.xml.xsd.prefixForElement" id="_QGKKkuDOEfC7ivsSxMkT5A" value="unqualified"/>
   <node defType="com.stambia.xml.root" id="_QGI8fuDOEfC7ivsSxMkT5A" name="customerDetails" position="0">
     <node defType="com.stambia.xml.sequence" id="_QGI8f-DOEfC7ivsSxMkT5A" position="3">
